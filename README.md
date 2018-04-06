@@ -148,6 +148,7 @@ QIAN0028@E.NTU.EDU.SG. We will get back to you as soon as possible.
 7) Reference
 -------------
 
-[1] H. Qian, C-H CHANG AND H. YU, "An efficient channel clustering and flow rate 
-allocation algorithm for non-uniform microfluidic cooling of 3D integrated circuits", 
-INTEGRATION, the VLSI journal (2012), doi:10.1016/j.vlsi.2011.12.005.
+[1] H. Qian, H. Liang, C. H. Chang, W. Zhang and H. Yu, ”Thermal simulator of 3D-IC with
+modeling of anisotropic TSV conductance and microchannel entrance effects,”in Proc. 18th
+Asia and South Pacific Design Automation Conference (ASP-DAC 2013), Yokohama, Japan,
+22-23 January 2013.
